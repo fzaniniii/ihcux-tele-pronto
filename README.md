@@ -38,13 +38,12 @@ Por esse motivo, o foco do design foi minimizar distrações e facilitar a naveg
 
 O fluxo principal do TelePronto foi estruturado da seguinte maneira:
 
-1. Acesso à tela inicial;
-2. Início da triagem inteligente;
-3. Seleção dos sintomas;
-4. Entrada na fila virtual;
-5. Acesso à consulta por vídeo;
-6. Visualização da receita digital;
-7. Configuração de lembretes de medicação.
+1. **Home** — acesso rápido às principais funcionalidades do aplicativo;
+2. **Triagem** — seleção e descrição dos sintomas do usuário;
+3. **Sala de Espera** — exibição da fila virtual e tempo estimado;
+4. **Consulta por Vídeo** — realização do atendimento remoto com o médico;
+5. **Receita Digital** — visualização da prescrição médica digital;
+6. **Alarme** — configuração de lembretes para medicação.
 
 O objetivo foi criar um fluxo simples, rápido e intuitivo para o usuário.
 
