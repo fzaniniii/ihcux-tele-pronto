@@ -130,5 +130,5 @@ Entre as principais decisões adotadas:
 
 ## 📷 Protótipo Desenvolvido
 
-![Protótipo do TelePronto](prototipo.png)
+![Protótipo do TelePronto](prototipo/prototipo.png)
 ```
