@@ -7,8 +7,11 @@
 * **Lucas Henrique Miranda** - RA: 325131396
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
 **Instituição:** Centro Universitário UNA – Belo Horizonte
+
 **Matéria:** Interação Humano Computador e UX
+
 **Professor:** Daniel Henrique Matos de Paiva
 
 ---
